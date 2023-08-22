@@ -45,11 +45,9 @@ public class Main {
             System.out.println("Var1 es diferente o mayor a Var2");
         } else {
             System.out.println("No cumple la condicion");
-        }
+        }/*
 
-        //boolean
-        System.out.println("Negacion");
-        System.out.println(!var3);*/
+
 
 
     }
