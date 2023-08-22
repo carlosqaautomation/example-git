@@ -1,4 +1,4 @@
-package Example;
+package ejercicios.encapsulamiento;
 
 public class example {
     public static void main(String[] args) {
