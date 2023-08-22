@@ -1,7 +1,8 @@
-package example;
+package Example;
 
-public class Example {
+public class example {
     public static void main(String[] args) {
-        System.out.println("Este es un ejemplo");
+        System.out.println("Esto es un ejemplo");
     }
+
 }

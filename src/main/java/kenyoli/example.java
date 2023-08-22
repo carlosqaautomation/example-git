@@ -1,5 +1,6 @@
 package kenyoli;
 
 public class example
-dadsad{
+{
+    String abc = "";
 }
